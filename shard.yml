@@ -1,0 +1,23 @@
+name: crystgenics
+version: 0.1.0
+
+authors:
+  - nesanya <nesanya1990@gmail.com>
+
+description: |
+  Library for MIDI devices IO
+
+# dependencies:
+#   pg:
+#     github: will/crystal-pg
+#     version: "~> 0.5"
+
+# development_dependencies:
+#   webmock:
+#     github: manastech/webmock.cr
+
+targets:
+  crystgenics:
+    main: src/main.cr
+
+license: MIT
